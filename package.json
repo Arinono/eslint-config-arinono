@@ -1,9 +1,8 @@
 {
   "name": "eslint-config-arinono",
   "version": "1.0.0",
-  "description": "Custome ESLint config for storyscript repos.",
+  "description": "Custom ESLint config.",
   "main": "index.js",
-  "repository": "https://github.com/storyscript/eslint-config-storyscript",
   "license": "Apache2.0",
   "private": false,
   "dependencies": {
