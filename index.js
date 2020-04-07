@@ -16,7 +16,7 @@ module.exports = {
     '@typescript-eslint',
     'jest'
   ],
-  'ignorePatterns': ['build'],
+  'ignorePatterns': ['build', 'dist'],
   rules: {
     'no-unused-vars': 'off',
     '@typescript-eslint/no-unused-vars': 'error',
