@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-storyscript",
+  "name": "eslint-config-arinono",
   "version": "1.0.0",
   "description": "Custome ESLint config for storyscript repos.",
   "main": "index.js",
